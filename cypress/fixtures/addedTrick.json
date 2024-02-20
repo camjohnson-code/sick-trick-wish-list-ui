@@ -1,0 +1,37 @@
+[
+  {
+    "stance": "regular",
+    "name": "treflip",
+    "obstacle": "flat ground",
+    "tutorial": "https://www.youtube.com/watch?v=XGw3YkQmNig",
+    "id": 1
+  },
+  {
+    "stance": "switch",
+    "name": "heelflip",
+    "obstacle": "stairs",
+    "tutorial": "https://www.youtube.com/watch?v=9N9swrZU1HA",
+    "id": 2
+  },
+  {
+    "stance": "regular",
+    "name": "frontside 50-50, backside 180 out",
+    "obstacle": "ledge",
+    "tutorial": "https://www.youtube.com/watch?v=9N9swrZU1HA",
+    "id": 3
+  },
+  {
+    "id": 4,
+    "stance": "Regular",
+    "name": "Pop Shove It",
+    "obstacle": "Flatground",
+    "tutorial": "https://www.youtube.com/watch?v=Oq9Y3i7HD40"
+  },
+  {
+    "id": 12345,
+    "stance": "Regular",
+    "name": "New York Nut Buster",
+    "obstacle": "'Stairs",
+    "tutorial": "https://www.youtube.com/watch?v=O5x-y-Y8Gzs"
+  }
+]
