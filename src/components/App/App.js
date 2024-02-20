@@ -32,7 +32,7 @@ function App() {
   return (
     <div className='App'>
       <h1>Sick Trick Wish List</h1>
-      <Form setTricks={setTricks} />
+      <Form setTricks={setTricks} prevTricks={[tricks]} />
       <section className='trick-section'>
         {tricks ? cardElements : <p>{error}</p>}
       </section>
