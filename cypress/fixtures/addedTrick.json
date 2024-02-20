@@ -31,7 +31,7 @@
     "id": 12345,
     "stance": "Regular",
     "name": "New York Nut Buster",
-    "obstacle": "'Stairs",
+    "obstacle": "Stairs",
     "tutorial": "https://www.youtube.com/watch?v=O5x-y-Y8Gzs"
   }
 ]
